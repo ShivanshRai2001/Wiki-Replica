@@ -1,0 +1,198 @@
+/* body
+{
+    width: 10em;
+    height: 1000px;
+    background-color: #ececec;
+} */
+
+.left_box
+{
+    width: 200px;
+    height: 10000px;
+    background-color: #ececec;
+    margin-left: -20px;
+    margin-top: -1500px;
+}
+
+.logo img
+{
+    width: 150px;
+    height: 160px;
+    background-color: #ececec;
+    padding-left: 20px;
+}
+
+a
+{
+    text-decoration: none;
+}
+
+.left
+{
+    background-color: #ececec;
+    width: 10em;
+    /* height: 10000px; */
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+hr.line
+{
+    width: 80%;
+    padding-right: 2%;
+}
+
+.motorcycle
+{
+    position: relative;
+    margin-left: 200px;
+    margin-top: -9950px;
+    
+}
+
+    .motorcycle .motorcycle_img
+    {
+        display: grid;
+        justify-content: right;
+        margin-top: -230px;
+    }
+
+    .motorcycle .motorcycle_img img
+    {
+        margin-bottom: 5px;
+        margin-right: 10px;
+    }
+
+    .motorcycle p
+    {
+        margin-right: 350px;
+    }
+
+.content
+{
+    margin-left: 200px;
+    margin-top: -230px;
+}
+
+.types
+{
+    margin-left: 200px;
+}
+
+    .types .types_img
+    {
+        display: flex;
+        justify-content: center;
+    }
+
+    .types .types_img img
+    {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+.history
+{
+    margin-left: 200px;
+}
+
+    .history .history_img
+    {
+        display: grid;
+        justify-content: right;
+        margin-top: -400px;
+    }
+
+    .history .history_img img
+    {
+        margin-bottom: 5px;
+        margin-right: 10px;
+    }
+
+    .history p
+    {
+        margin-right: 250px;
+    }
+
+    .history table, th, td
+    {
+        border: 1px solid black;
+    }
+
+    .history table 
+    {
+        margin-right: 250px;
+        text-align: center;
+    }
+
+    .history .right p
+    {
+        margin-left: 250px;
+        margin-right: 10px;
+    }
+
+    .history .left_img
+    {
+        margin-top: -200px;
+    }
+
+    .history .First_World_War p
+    {
+        margin-right: 250px;
+    }
+
+    .history .First_World_War img
+    {
+        margin-left: 1400px;
+        margin-top: -200px;
+    }
+
+    .history .right_para
+    {
+        margin-left: 250px;
+        margin-top: -160px;
+    }
+
+    .history .Postwar_img
+    {
+        display: grid;
+        justify-content: right;
+        margin-left: 5px;
+        margin-top: -300px;
+    }
+
+    .history .Postwar
+    {
+        margin-top: -70px;
+    }
+
+    .history .Today
+    {
+        margin-top: -70px;
+    }
+
+    .history .Today img
+    {
+        margin-left: 1400px;
+        margin-top: -140px;
+    }
+
+.content
+{
+    background-color: #f1f1f1;
+    width: 350px;
+    padding: 3px;
+    border: 1px;
+    border-style: groove;
+}
+
+.content h4
+{
+    text-align: center;
+}
+
+.content li
+{
+    margin-bottom: 5px;
+}
